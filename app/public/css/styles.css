@@ -1,0 +1,51 @@
+.container-main {
+    margin-bottom: 6rem;
+}
+
+nav .form-login input,
+nav .form-login select,
+nav .form-login textarea {
+  border-color: white;
+}
+
+nav .form-login input::-webkit-input-placeholder,
+nav .form-login select::-webkit-input-placeholder,
+nav .form-login textarea::-webkit-input-placeholder {
+    color: white;
+}
+
+nav .form-login input::-moz-placeholder,
+nav .form-login select::-moz-placeholder,
+nav .form-login textarea::-moz-placeholder {
+    color: white;
+}
+
+nav .form-login input:-ms-input-placeholder,
+nav .form-login select:-ms-input-placeholder,
+nav .form-login textarea:-ms-input-placeholder {
+    color: white;
+}
+
+nav .form-login input:-moz-placeholder,
+nav .form-login select:-moz-placeholder,
+nav .form-login textarea:-moz-placeholder {
+    color: white;
+}
+
+nav button,
+nav a,
+nav .btn-outline-light {
+  color: white;
+  border-color: white;
+}
+
+nav button:hover,
+nav a:hover,
+nav .btn-outline-light:hover,
+nav button:focus,
+nav a:focus,
+nav .btn-outline-light:focus {
+  background-color: transparent;
+  color: white;
+  border-color: white;
+}
